@@ -1,0 +1,1 @@
+# find-a-number-of-factorial-in-c-using-function-
